@@ -120,11 +120,9 @@ Arqen looks like a modern desktop: light and dark themes tinted with an accent c
 
 Arqen is made on **Fedora** (44/45). Debian/Ubuntu and Arch are supported on a **best-effort, untested** basis.
 
-```sh
 download the folder, extract it and drag and drop the *build.sh* and type *install* next to it in the terminal
-```
 
-`./build.sh` installs any missing packages (it asks for your password), downloads and builds [scenefx](https://github.com/wlrfx/scenefx) (rounded corners, shadows and blur), builds Arqen, and installs it as a login session.
+./build.sh installs any missing packages (it asks for your password), downloads and builds [scenefx](https://github.com/wlrfx/scenefx) (rounded corners, shadows and blur), builds Arqen, and installs it as a login session.
 
 Then **log out**, click the **gear** on the login screen, choose **Arqen**, and log in.
 
@@ -132,9 +130,7 @@ Then **log out**, click the **gear** on the login screen, choose **Arqen**, and 
 
 ### Try it first, in a window
 
-```sh
 ./build.sh run
-```
 
 Arqen opens as a window inside your current desktop. Apps you launch from its menu open inside it. To start a terminal in it as well: `ARQEN_TERMINAL=kitty ./build.sh run`. (Night light and notifications only work when Arqen is your real session.)
 
