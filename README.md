@@ -2,7 +2,7 @@
 
 **A floating Wayland desktop, written from scratch in C++20 on wlroots 0.20.**
 
-Arqen looks like a modern desktop: light and dark themes tinted with an accent colour you choose, soft rounded cards, and the accent gradient on anything that's switched on. A few touches come from elsewhere: optional manga line art (bold window outlines, hard comic shadows) and the segmented LED gauge from Audi's cockpit displays, used in the on-screen display and the workspace pager.
+Arqen looks like a modern desktop: light and dark themes tinted with an accent colour you choose, soft rounded cards, and the accent gradient on anything that's switched on. 
 
 <img width="1920" height="1080" alt="01-desktop" src="https://github.com/user-attachments/assets/c12413d8-b1e7-4a2f-a987-cdf3870413af" />
 
