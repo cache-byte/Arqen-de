@@ -105,7 +105,6 @@ Arqen looks like a modern desktop: light and dark themes tinted with an accent c
 - **Clipboard history** (Super+V).
 - **Desktop icons**: files and folders on the desktop, and the Trash.
 - **On-screen keyboard**.
-- **Phone or tablet as a second screen** (virtual output over wayvnc).
 - **System sounds**: pick a sound theme and turn individual sounds on or off.
 - **Night light**, idle dim, screen off, lock and sleep, low-battery warnings.
 
