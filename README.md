@@ -121,9 +121,7 @@ Arqen looks like a modern desktop: light and dark themes tinted with an accent c
 Arqen is made on **Fedora** (44/45). Debian/Ubuntu and Arch are supported on a **best-effort, untested** basis.
 
 ```sh
-git clone https://github.com/cache-byte/Arqen-de.git
-cd Arqen-de
-./build.sh install
+download the folder, extract it and drag and drop the *build.sh* and type *install* next to it in the terminal
 ```
 
 `./build.sh` installs any missing packages (it asks for your password), downloads and builds [scenefx](https://github.com/wlrfx/scenefx) (rounded corners, shadows and blur), builds Arqen, and installs it as a login session.
