@@ -4,7 +4,8 @@
 
 Arqen looks like a modern desktop: light and dark themes tinted with an accent colour you choose, soft rounded cards, and the accent gradient on anything that's switched on. 
 
-<img width="1920" height="1080" alt="01-desktop" src="https://github.com/user-attachments/assets/c12413d8-b1e7-4a2f-a987-cdf3870413af" />
+<img width="1920" height="1080" alt="Screenshot from 2026-11-23 14-26-14" src="https://github.com/user-attachments/assets/774e4ae2-cc18-461b-adc3-94fc23b98203" />
+<img width="1920" height="1080" alt="Screenshot from 2026-11-23 14-25-50" src="https://github.com/user-attachments/assets/5f8f60f5-9fd1-4b81-b947-054278a45dc9" />
 
 
 > **Heads-up:** Arqen is written with an AI (Claude, by Anthropic). It's used every day, but it may have bugs. Keep another desktop (GNOME, KDE…) installed so you can always log in to that one.
