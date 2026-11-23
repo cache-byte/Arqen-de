@@ -29,8 +29,6 @@ Arqen looks like a modern desktop: light and dark themes tinted with an accent c
 
 ## Screenshots
 
-
-|---|
 <img width="1920" height="1080" alt="Screenshot from 2026-11-23 14-27-51" src="https://github.com/user-attachments/assets/32213111-1c3e-496a-bb7a-5329337b7713" /><img width="1920" height="1080" alt="Screenshot from 2026-11-23 14-27-58" src="https://github.com/user-attachments/assets/916e998c-9177-4dcc-bfe1-4d8c62668943" />**App menu**: pinned apps (drag them into order), connected devices, recent files, every app, and search across apps, files and settings. 
 <img width="1920" height="1080" alt="Screenshot from 2026-11-23 14-29-02" src="https://github.com/user-attachments/assets/313121ae-9aa8-4b40-b762-421e3ed73c74" /><img width="1920" height="1080" alt="Screenshot from 2026-11-23 14-28-55" src="https://github.com/user-attachments/assets/e85db875-4268-41a7-a6ba-8f5ac84b50e0" />**Control centre**: a grid of tiles and sliders you can rearrange and resize. 
 <img width="1920" height="1080" alt="Screenshot from 2026-11-23 14-31-16" src="https://github.com/user-attachments/assets/bcef11b6-4fcf-4825-a19c-8dfa9fcd8790" /><img width="1920" height="1080" alt="Screenshot from 2026-11-23 14-30-56" src="https://github.com/user-attachments/assets/ea7ae9c3-591a-4fc5-843f-67fe3b9329dd" />**Wi-Fi and Bluetooth pages**: the Scan button and the sweeping line while it searches. 
