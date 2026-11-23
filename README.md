@@ -51,6 +51,11 @@ Arqen looks like a modern desktop: light and dark themes tinted with an accent c
 - **Styles other apps**: GTK (GNOME), Qt (KDE) and Chrome-type browsers follow light/dark and your accent.
 - A built-in **Arqen wallpaper** (a glowing ribboned gem in dark mode, lavender into rose in light mode), your own pictures, or a solid colour, with smooth transitions.
 - **Wallpaper picker** on Super+W: arrow keys or scroll to choose, Enter to set.
+- https://github.com/user-attachments/assets/0fad315e-729d-419d-ab9d-c0b38cec7c15
+
+
+
+
 
 ### Panels and dock
 - As many **panels** as you like, on any edge of any screen, as a bar or a **dock**, with **auto-hide**.
