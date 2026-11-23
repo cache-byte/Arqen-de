@@ -34,10 +34,8 @@ Arqen looks like a modern desktop: light and dark themes tinted with an accent c
 |<img width="1920" height="1080" alt="03-control-centre" src="https://github.com/user-attachments/assets/6076cfb3-53b9-43ed-aa61-e50faef1ed21" /> **Control centre**: a grid of tiles and sliders you can rearrange and resize. |
 |<img width="1920" height="1080" alt="04-wifi-scanning" src="https://github.com/user-attachments/assets/6835a22f-aa89-4394-ae88-c2b18c201fce" />**Wi-Fi and Bluetooth pages**: the Scan button and the sweeping line while it searches. 
 |<img width="1920" height="1080" alt="05-overview" src="https://github.com/user-attachments/assets/bc7fecf3-f7fb-43aa-b1c1-2bd963e17499" /> **Overview**: desktops and their windows (Super+Tab or Super+S). |
-|<img width="1920" height="1080" alt="Screenshot from 2026-11-23 11-21-27" src="https://github.com/user-attachments/assets/4a41ea09-ac18-43a4-97e9-e4c741bfeeed" />
-**Lock screen**: six styles, music controls, waiting-notification counts. 
-|<img width="1920" height="1080" alt="Screenshot from 2026-11-23 11-17-50" src="https://github.com/user-attachments/assets/0a3f65c7-481d-430a-b607-ad5ee4b44619" />
-**Arqen Settings**: every option in one Qt app that follows your theme. 
+|<img width="1920" height="1080" alt="Screenshot from 2026-11-23 11-21-27" src="https://github.com/user-attachments/assets/4a41ea09-ac18-43a4-97e9-e4c741bfeeed" />**Lock screen**: six styles, music controls, waiting-notification counts. 
+|<img width="1920" height="1080" alt="Screenshot from 2026-11-23 11-17-50" src="https://github.com/user-attachments/assets/0a3f65c7-481d-430a-b607-ad5ee4b44619" />**Arqen Settings**: every option in one Qt app that follows your theme. 
 
 ---
 
