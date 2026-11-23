@@ -83,6 +83,8 @@ Arqen looks like a modern desktop: light and dark themes tinted with an accent c
 - Click a notification to **open it downward** with simple options.
 - **Reply inline** to KDE Connect messages, right in the notification.
 - **Do not disturb**. You choose where popups appear (any of nine places) and how long they stay.
+- <img width="1920" height="1080" alt="Screenshot from 2026-11-23 14-41-37" src="https://github.com/user-attachments/assets/22eab651-44b8-47b5-8724-87405615a64e" /><img width="1920" height="1080" alt="Screenshot from 2026-11-23 14-41-21" src="https://github.com/user-attachments/assets/a7f47ed9-c56e-4f6e-987e-ef8eca0566c2" />
+
 
 ### Media and lyrics
 - A **media card** that takes on the **album art's colours** (your accent if there's no art).
